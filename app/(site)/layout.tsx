@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Build a Brand",
-  metadataBase: new URL("https://build.a.brand.netlify.app"),
+  metadataBase: new URL("https://build-a-brand.netlify.app"),
   description: "The website for Build a Brand",
   openGraph: {
     images:
