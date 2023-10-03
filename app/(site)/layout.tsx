@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "The website for Build a Brand",
   openGraph: {
     images:
-      "",
+      "https://github.com/AshazDev/build-a-brand-website-images/blob/main/Build%20a%20Brand.png?raw=true",
   },
 };
 

@@ -10,7 +10,7 @@ export default async function Project() {
     <main className="max-w-7xl mx-auto md:px-16 px-6">
       <section className="max-w-2xl mb-16">
         <h1 className="text-3xl font-bold tracking-tight sm:text-5xl mb-6 lg:leading-[3.7rem] leading-tight">
-           Projects we've worked on over the years
+           Projects we&aposve worked on over the years
         </h1>
       </section>
 
